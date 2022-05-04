@@ -1,0 +1,16 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class Patient_Card {
+
+    private int age;
+
+public static void Patient_Card() {
+System.out.print (“Введите свой возраст”);
+Scanner scan = new Scanner(System.in);
+}
+public int getAge = scan.nextInt() {
+System.out.printl (“Вы ввели число” + 10)
+    return this.age;
+}
